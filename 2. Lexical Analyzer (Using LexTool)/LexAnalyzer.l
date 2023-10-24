@@ -75,25 +75,3 @@ int yywrap()
 	{
 	return(1);
 	}
-
-
-/* 
-Example input.c File
-#include <stdio.h>
-#include <math.h>
-
-int main(){
-
-	int a,b,c;
-	
-	a = 1;
-	b = 2;
-	c = a + b;
-
-
-	return 0;
-
-
-	}
-
-*/
