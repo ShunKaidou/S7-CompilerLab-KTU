@@ -19,4 +19,8 @@ KTU SCHEME: 2019 | Compiler Lab
 ### 2) [Lexical Analyzer (Using LexTool)](/2.%20Lexical%20Analyzer%20(Using%20LexTool))
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [LexAnalyzer.l](/2.%20Lexical%20Analyzer%20(Using%20LexTool)/LexAnalyzer.l)
 #### Usage
+<img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/44ff8bf2-2fa0-4094-89dc-ffbc8cc989e4" width="400">
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/03fc3583-b508-41b8-aa52-1803ccf80b0c" width="400">
+
+
+
