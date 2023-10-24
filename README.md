@@ -2,7 +2,7 @@
 KTU SCHEME: 2019 | Compiler Lab
 
 # Reference
-<a href="https://github.com/ShunKaidou/S7-CompilerLab-KTU/files/13127115/lex.Tutorial.pdf" target="_blank">Basics (PDF)</a>
+<a href="https://github.com/ShunKaidou/S7-CompilerLab-KTU/files/13127115/lex.Tutorial.pdf" target="_blank">(PDF)</a>
 
 # Lex Flow
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/899fad95-fd07-47a5-b954-64138a31721a" width="500">
