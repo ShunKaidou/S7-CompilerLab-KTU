@@ -27,3 +27,8 @@ KTU SCHEME: 2019 | Compiler Lab
 #### Usage
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/44ff8bf2-2fa0-4094-89dc-ffbc8cc989e4" width="400">
 
+### 4) [Converstion of Substring 'abc' to 'ABC'](/4.%20Substring%20abc%20to%20ABC)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [abc2ABC.l](/4.%20Substring%20abc%20to%20ABC/abc2ABC.l)
+#### Usage
+<img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/44ff8bf2-2fa0-4094-89dc-ffbc8cc989e4" width="400">
+
