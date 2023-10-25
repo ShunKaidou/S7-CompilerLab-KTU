@@ -22,5 +22,8 @@ KTU SCHEME: 2019 | Compiler Lab
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/44ff8bf2-2fa0-4094-89dc-ffbc8cc989e4" width="400">
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/03fc3583-b508-41b8-aa52-1803ccf80b0c" width="400">
 
-
+### 3) [Count of Lines, Words, Chars and Space](/3.%20Count%20of%20Lines%20Words%20Chars%20Space)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [LineWordCharSpaceCount.l](/3.%20Count%20of%20Lines%20Words%20Chars%20Space/LineWordCharSpaceCount.l)
+#### Usage
+<img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/44ff8bf2-2fa0-4094-89dc-ffbc8cc989e4" width="400">
 
