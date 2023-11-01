@@ -37,7 +37,7 @@ KTU SCHEME: 2019 | Compiler Lab
 #### Usage
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/4db3d079-ab93-4c55-b678-d28da483b94d" width="400">
 
-### 6) [YACC Specification for Valid Arithmetic Expression](6.%20Valid%20Arthimetic%20Expression)
+### 6) [Recognize Valid Arithmetic Expression (YACC)](6.%20Valid%20Arthimetic%20Expression)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [LEXValidArtihmeticExpr.l](/6.%20Valid%20Arthimetic%20Expression/LEXValidArtihmeticExpr.l)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [YACCValidArithmeticExpr.y](/6.%20Valid%20Arthimetic%20Expression/YACCValidArithmeticExpr.y)
 #### Usage
