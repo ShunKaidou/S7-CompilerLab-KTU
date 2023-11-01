@@ -37,8 +37,14 @@ KTU SCHEME: 2019 | Compiler Lab
 #### Usage
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/4db3d079-ab93-4c55-b678-d28da483b94d" width="400">
 
-### 6) [Recognize Valid Arithmetic Expression (YACC)](6.%20Recognize%20Valid%20Arthimetic%20Expression)
+### 6) [Recognize Valid Arithmetic Expression (YACC)](/6.%20Recognize%20Valid%20Arthimetic%20Expression)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [LEXValidArtihmeticExpr.l](/6.%20Recognize%20Valid%20Arthimetic%20Expression/LEXValidArtihmeticExpr.l)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [YACCValidArithmeticExpr.y](/6.%20Recognize%20Valid%20Arthimetic%20Expression/YACCValidArithmeticExpr.y)
+#### Usage
+<img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/4db3d079-ab93-4c55-b678-d28da483b94d" width="400">
+
+### 7) [Recognize Valid Identifier (YACC)](/7.%20Recognize%20Valid%20Identifier)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [LexValidIdentifier.l](/7.%20Recognize%20Valid%20Identifier/LexValidIdentifier.l)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [YACCValidIdentifier.y](/7.%20Recognize%20Valid%20Identifier/YACCValidIdentifier.y)
 #### Usage
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/4db3d079-ab93-4c55-b678-d28da483b94d" width="400">
