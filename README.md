@@ -33,6 +33,6 @@ KTU SCHEME: 2019 | Compiler Lab
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/4db3d079-ab93-4c55-b678-d28da483b94d" width="400">
 
 ### 5) [YACC Specification for Valid Arithmetic Expression](6.%20Valid%20Arthimetic%20Expression)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [abc2ABC.l](/4.%20Substring%20abc%20to%20ABC/abc2ABC.l)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [LEXValidArtihmeticExpr.l](/6.%20Valid%20Arthimetic%20Expression/LEXValidArtihmeticExpr.l)
 #### Usage
 <img src="https://github.com/ShunKaidou/S7-CompilerLab-KTU/assets/81925773/4db3d079-ab93-4c55-b678-d28da483b94d" width="400">
