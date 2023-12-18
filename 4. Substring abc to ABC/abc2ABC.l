@@ -20,14 +20,10 @@ int i;
 	printf("%s",yytext);
 	}
 
-
-\n {printf("%s",yytext);}
-
 %%
 
 void main(){
 yylex();}
 
 int yywrap(){
-return 1;}
-
+return 1;} 
