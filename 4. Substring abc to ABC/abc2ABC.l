@@ -21,8 +21,7 @@ int i;
 	printf("%s",yytext);
 	}
 
-[\t]* return 0;
-.* {ECHO;}
+
 \n {printf("%s",yytext);}
 
 %%
